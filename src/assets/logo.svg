@@ -1,0 +1,6 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 30L40 10H60L80 30H20Z" fill="#2563EB"/>
+  <circle cx="30" cy="40" r="8" fill="#2563EB"/>
+  <circle cx="70" cy="40" r="8" fill="#2563EB"/>
+  <text x="100" y="35" font-family="Inter" font-size="24" fill="#2563EB">SwiftCart</text>
+</svg>

@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: var(--card-bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.logo {
+  height: 40px;
+}
+
+.links {
+  display: flex;
+  gap: 2rem;
+  margin-left: auto;
+}
+
+.links a {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.links a:hover {
+  color: var(--primary);
+}
